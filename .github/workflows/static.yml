@@ -1,25 +1,3 @@
-Skip to content
-adhikurni
-Porto
-Repository navigation
-Code
-Issues
-Pull requests
-Agents
-Actions
-Projects
-Wiki
-Security and quality
-Insights
-Settings
-Important update
-On April 24 we'll start using GitHub Copilot interaction data for AI model training unless you opt out. Review this update and manage your preferences in your GitHub account settings.
-Deploy static content to Pages
-Update Lanyard height to 100vh for improved layout consistency #13
-All jobs
-Run details
-Workflow file for this run
-.github/workflows/deploy.yml at c9f3cca
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
@@ -71,15 +49,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-Footer
-© 2026 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Community
-Docs
-Contact
-Manage cookies
-Do not share my personal information
