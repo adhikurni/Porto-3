@@ -88,5 +88,3 @@ function App() {
 }
 
 export default App
-
-#commit to check deployment on github pages
