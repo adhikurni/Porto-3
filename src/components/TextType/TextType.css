@@ -1,0 +1,22 @@
+.text-type {
+  display: inline-block;
+  white-space: pre-wrap;
+  font-family: 'Roboto Flex', sans-serif;
+  font-size: 12px;
+}
+
+.text-type__cursor {
+  margin-left: 0.25rem;
+  display: inline-block;
+  opacity: 1;
+}
+
+.text-type__cursor--hidden {
+  display: none;
+}
+
+@media screen and (min-width: 1024px) {
+  .text-type {
+    font-size: 2vw;
+  }
+}
