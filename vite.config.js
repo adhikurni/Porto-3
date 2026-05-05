@@ -7,5 +7,3 @@ export default defineConfig({
   assetsInclude: ['**/*.glb'],
   base: "/Porto-3/",
 })
-
-#commit to check delpoyment on github pages
